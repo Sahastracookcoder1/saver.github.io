@@ -1,37 +1,35 @@
-## Welcome to SAVER Application Help Page
+## Welcome to SAVER Application Page
 
-You can use the [editor on GitHub](https://github.com/Sahastracookcoder1/saver.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Saver is an android application that allows its user to save the money.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This app is very useful in getting all the information related to the expenses that one has done and saving that the user  is left with.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features of the project:
 
-```markdown
-Syntax highlighted code block
+#### Bills
+The user will have the option to add custom(restaurant bill) or monthly-based(OTT based subscription) bill in the application database. The user can change the bill in future as well according to their need. All the monthly-based bill will directly come in the upcoming bill of the home screen of the application at the first day of every month.
 
-# Header 1
-## Header 2
-### Header 3
+#### Graph
+This feature allows the user to see and observe its finances in a demographic way where the user can see its expenses and past bills along with the salary credited.
 
-- Bulleted
-- List
+#### Profile
+The user can add its profile description like his profile picture, monthly-salary.
 
-1. Numbered
-2. List
+#### Splash activity
+Each and every application need a bit time to process and load the app and in order to manage that process time for the user so that user may find it interactive we have implemented a splash screen and it will be there on the screen until and unless the application is loaded.
 
-**Bold** and _Italic_ and `Code` text
+#### WebView
+If the user is new to the application and he doesn't know how to use this application at it most then the user can simply click on the help button that will lead the user to web based page where he can read the manual of this application.
 
-[Link](url) and ![Image](src)
-```
+#### Share bills
+If the user wants to share the bill to any messaging app in order to validate the transaction then the user can do this in this application with the help of external intent method that is being implemented in the saver app.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Notification
+This application users push notification in order to give notifications regarding unpaid bills big expenses and much more. the user can get notification of various kinds like one time notification multiple push notification custom push notification and much more.
 
-### Jekyll Themes
+#### Current Savings
+After pending on various bills in the entire month whatever is left from the month will automatically will be transferred to the current saving of the user and the monthly amount will be renewed to the salary of the user so that the user can see how much saved until now and they can deduce the savings from the past months as well.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sahastracookcoder1/saver.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
