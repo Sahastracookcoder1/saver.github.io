@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Saver</string>
+    <string name="login">Already Have an Account? <b>Login</b></string>
+    <string name="don_t_have_an_account">Don\'t have an account? <b>Register</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bill_type">Bill</string>
+    <string name="savings_type">Savings</string>
+    <string name="Income_type">Income</string>
+    <string name="eee_mail">eee@gmail.com</string>
+    <string name="eee_ps">123456eeee</string>
+</resources>
